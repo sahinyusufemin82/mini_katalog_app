@@ -27,7 +27,8 @@ Android Studio veya VS Code kurulu olmalıdır
 Bir Android emülatör veya fiziksel cihaz bağlı olmalıdır
 
 Adımlar
-bash# 1. Projeyi klonla
+bash 
+# 1. Projeyi klonla
 git clone https://github.com/sahinyusufemin82/mini_katalog.git
 
 # 2. Proje klasörüne gir

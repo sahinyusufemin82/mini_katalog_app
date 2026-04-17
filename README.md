@@ -1,7 +1,7 @@
 <img width="500" height="1020" alt="Ekran görüntüsü 2026-04-17 110952" src="https://github.com/user-attachments/assets/c60dff9f-9f73-4ec4-a1b2-301004d31726" />
 <img width="462" height="1002" alt="Ekran görüntüsü 2026-04-17 111019" src="https://github.com/user-attachments/assets/6d57003d-2740-4e75-9f73-4b00ff9f8492" />
 
-
+Eğitim: Flutter Günlük Eğitim Programı
 📋 Proje Açıklaması
 Mini Katalog, wantapi.com'dan gelen gerçek ürün verileriyle çalışan bir mobil alışveriş kataloğudur.
 Kullanıcılar ürünleri kategoriye göre filtreleyebilir, favorilerine ekleyebilir, sepete atabilir ve karanlık mod ile aydınlık mod arasında geçiş yapabilir.
@@ -28,7 +28,7 @@ Bir Android emülatör veya fiziksel cihaz bağlı olmalıdır
 
 Adımlar
 bash# 1. Projeyi klonla
-git clone https://github.com/KULLANICI_ADIN/mini_katalog.git
+git clone https://github.com/sahinyusufemin82/mini_katalog.git
 
 # 2. Proje klasörüne gir
 cd mini_katalog
